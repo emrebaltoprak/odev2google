@@ -1,0 +1,56 @@
+
+img {
+    display: block;
+    margin: 0 auto 0 auto;
+    width: auto;
+    height: 100px;
+    }
+#baslik {
+    margin-bottom: 0;
+}
+.search {
+    background-color:#EEEEEE;
+    height: auto;
+    margin: 0 4%;
+    display: block;
+    text-align: center;
+}
+.example {
+    width:;
+}
+.content {
+    width: 100%;
+    margin: 2px 4%;
+}
+.box1, .box2, .box3 {
+    
+    padding: 5px 3px;
+    float: left;
+    margin: 1px 1px ;
+    text-align: center;
+    width: 30%;
+    height: 67px;
+    font-size: small;
+    }
+.clear {
+    clear: both;
+}
+.box3 {
+    background-color:#62B3AA;
+    width: 35%;
+    font-size: small;
+}
+.box2 {
+    background-color:rgb(112, 204, 194);
+    width: 20%;
+    font-size: small;
+}
+.box1 {
+    background-color: rgb(126, 229, 218);
+    width: 35%;
+    font-size: medium;
+}
+.telif {
+    text-align: center;
+    font-size: small;
+}
